@@ -1,5 +1,3 @@
-import os
-import signal
 import pytube 
 from tkinter import*
 
